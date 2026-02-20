@@ -937,14 +937,17 @@ const CRM = {
 
     // ── Sync helpers ──
     syncAttempt(scenarioId, score, reactionTime, chapter) {
+        const now = new Date();
+        const startedAt = new Date(now.getTime() - (reactionTime || 30) * 1000);
         this.pushToOutbox('attempt', {
             attemptId: `sim_${this._genId()}`,
             mode: 'simulation',
             scenarioId,
-            score,
-            reactionTime,
-            chapter,
-            finishedAt: new Date().toISOString()
+            score: score || 0,
+            total: 5,
+            accuracy: score ? Math.round((score / 5) * 100) : 0,
+            startedAt: startedAt.toISOString(),
+            finishedAt: now.toISOString()
         });
     },
 
