@@ -278,7 +278,7 @@ function renderHome(container) {
     <div class="page">
       <div class="hero-greeting">
         <div class="hero-time">${getGreeting()}</div>
-        <div class="hero-typewriter" id="typewriter-text"></div>
+        <div class="hero-typewriter" id="typewriter-text">${MOTIVATIONAL_MESSAGES[Math.floor(Math.random() * MOTIVATIONAL_MESSAGES.length)]}</div>
       </div>
 
       <div class="stats-bar">
