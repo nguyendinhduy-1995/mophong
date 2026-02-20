@@ -1,0 +1,22 @@
+{
+  "name": "Mô Phỏng Tình Huống Giao Thông",
+  "short_name": "Mô Phỏng GPLX",
+  "description": "Ôn luyện 120 tình huống mô phỏng giao thông cho kỳ thi sát hạch GPLX",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#4f8ef7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/public/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

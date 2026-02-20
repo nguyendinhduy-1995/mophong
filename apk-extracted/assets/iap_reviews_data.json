@@ -1,0 +1,79 @@
+{
+	"avg_rating": 4.7,
+	"rating_num": 14746,
+	"review_list": [
+        {
+            "rate": 5,
+            "desc": "Phần mềm hay, tiện lợi và rất hữu ích! Xin cảm ơn nhiều!",
+            "username": "Gấu yêu 87",
+            "date": "2024-10-17T07:30:00"
+        },
+        {
+            "rate": 5,
+            "desc": "Rất hữu ích cho những người đang ôn thi như mình Cảm ơn đội ngũ viết app ạ!",
+            "username": "kimhue1406",
+            "date": "2024-09-22T07:30:00"
+        },
+        {
+            "rate": 5,
+            "desc": "App thiết kế hay, trực quan! Đã mua bản full để ủng hộ lập trình app!",
+            "username": "Gundert",
+            "date": "2024-03-01T07:30:00"
+        },
+        {
+            "rate": 5,
+            "desc": "Ko bị chậm tình huống như nhưng ứng dụng khác. Mẹo cũng chuẩn 10đ",
+            "username": "fancuc",
+            "date": "2023-12-13T07:30:00"
+        },
+        
+        {
+            "rate": 5,
+            "desc": "Ứng dụng hoạt động tốt, mượt mà, video dễ nhìn, có gợi ý để đạt điểm tối đa khá hay.",
+            "username": "Loc_rabbirt",
+            "date": "2023-04-09T07:30:00"
+        },
+        {
+            "rate": 5,
+            "desc": "Các tình huống giống hệt như bài ôn luyện của trường, giúp luyện tập và ghi nhớ tốt thời điểm bấm. Ngoài ra chỉ cần 9k là có thể tải offline full hd tất cả các bài. Rất nên dùng thử nhé.",
+            "username": "ntth2000",
+            "date": "2023-03-09T07:30:00"
+        },
+        {
+            "rate": 5,
+            "desc": "Giao diện thân thiện, dễ sử dụng, gói vip rẻ, ứng dụng cập nhật liên tục. Dễ học, dễ hiểu. Sẽ giới thiệu cho học viên tải và sử dụng app",
+            "username": "Mạnh Khoẻ Trần",
+            "date": "2024-03-07T07:30:00"
+        },
+        {
+            "rate": 5,
+            "desc": "Làm theo 100% app và đã đậu điểm tối đa…cám ơn app rất nhiều",
+            "username": "Thien1237654",
+            "date": "2023-02-17T07:30:00"
+        },
+        {
+            "rate": 5,
+            "desc": "Một app tuyệt vời để học. Cảm ơn tác giả chân thành, nâng cấp pro cũng rất tế nhị. quá yêu mến",
+            "username": "Rain7305",
+            "date": "2023-01-12T07:30:00"
+        },
+        {
+            "rate": 5,
+            "desc": "Nhờ app này mà mình thi 50/50. Rất cám ơn nhà phát hành. Mãi yêu. Giống 100% trên máy tính. Chúc mọi người thi đạt.",
+            "username": "super2302",
+            "date": "2022-11-26T07:30:00"
+        },
+		{
+            "rate": 4,
+			"desc": "Bản thân app viết ổn Nhưng những tình huống quá tệ, để pass phần mô phỏng này chỉ có cách học thuộc nhưng đây là phần thi để xem cách thí sinh ứng biến không phải phần thuộc lòng.",
+			"username": "duc.le",
+			"date": "2022-11-15T07:30:00"
+		},
+        {
+            "rate": 5,
+            "desc": "app rất chuẩn với phần mềm máy tính bản mới nhất. ngoài ra còn có nhiều gợi ý hữu ích. sử dụng để tập tốt hơn tập trên máy tính.",
+            "username": "lienppham",
+            "date": "2022-09-20T07:30:00"
+        }
+	]
+}
