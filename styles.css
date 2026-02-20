@@ -276,10 +276,7 @@ body {
   font-weight: 700;
   line-height: 1.4;
   min-height: 56px;
-  background: var(--accent-gradient);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: var(--text-primary);
 }
 
 .hero-typewriter.typing::after {
