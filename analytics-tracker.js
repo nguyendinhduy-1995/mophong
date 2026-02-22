@@ -47,7 +47,7 @@
         try {
             fetch(API_URL, {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
+                headers: { 'Content-Type': 'text/plain' },
                 body: body,
                 keepalive: true,
                 credentials: 'omit',
@@ -61,7 +61,7 @@
         var batch = queue.splice(0, queue.length);
         var body = JSON.stringify({ events: batch });
         if (navigator.sendBeacon) {
-            var sent = navigator.sendBeacon(API_URL, new Blob([body], { type: 'application/json' }));
+            var sent = navigator.sendBeacon(API_URL, new Blob([body], { type: 'text/plain' }));
             if (!sent) doFetch(body);
         } else {
             doFetch(body);
